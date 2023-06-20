@@ -2,6 +2,7 @@
     <element db_object_id="5aa4142947236110de6192c7536d43b1" label="employee" max_length="40" name="x_881317_github_sn_employee" type="collection">
         <element label="Designation" max_length="40" name="designation" type="string"/>
         <element label="Id" max_length="40" name="id" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element label="Shift" max_length="10" name="shift" reference_qual="null" reference_qual_condition="null" type="string"/>
     </element>
