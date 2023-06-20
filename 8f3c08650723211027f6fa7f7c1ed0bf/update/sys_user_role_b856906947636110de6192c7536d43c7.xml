@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_881317_github_sn.employee_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>employee_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 05:13:33</sys_created_on>
+        <sys_id>b856906947636110de6192c7536d43c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_881317_github_sn.employee_user</sys_name>
+        <sys_package display_value="Github_Snow" source="x_881317_github_sn">8f3c08650723211027f6fa7f7c1ed0bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github_Snow">8f3c08650723211027f6fa7f7c1ed0bf</sys_scope>
+        <sys_update_name>sys_user_role_b856906947636110de6192c7536d43c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 05:13:33</sys_updated_on>
+    </sys_user_role>
+</record_update>

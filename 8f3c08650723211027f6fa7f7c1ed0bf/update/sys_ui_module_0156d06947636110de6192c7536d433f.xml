@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="employee">c156d06947636110de6192c7536d433c</application>
+        <filter/>
+        <name>employees</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_881317_github_sn.employee_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 05:13:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0156d06947636110de6192c7536d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employees</sys_name>
+        <sys_package display_value="Github_Snow" source="x_881317_github_sn">8f3c08650723211027f6fa7f7c1ed0bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github_Snow">8f3c08650723211027f6fa7f7c1ed0bf</sys_scope>
+        <sys_update_name>sys_ui_module_0156d06947636110de6192c7536d433f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 05:13:35</sys_updated_on>
+        <table>x_881317_github_sn_employee</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

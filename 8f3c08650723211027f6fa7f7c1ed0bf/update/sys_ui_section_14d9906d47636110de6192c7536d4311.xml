@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="14d9906d47636110de6192c7536d4311" sys_domain="global" table="x_881317_github_sn_employee" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-20 05:28:49</sys_created_on>
+            <sys_id>10d9d4ed47636110de6192c7536d43f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_881317_github_sn_employee" sys_domain="global" view="Default view">14d9906d47636110de6192c7536d4311</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-20 05:28:49</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-20 05:28:49</sys_created_on>
+            <sys_id>94d9d4ed47636110de6192c7536d43f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_881317_github_sn_employee" sys_domain="global" view="Default view">14d9906d47636110de6192c7536d4311</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-20 05:28:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>designation</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-20 05:28:49</sys_created_on>
+            <sys_id>18d9d4ed47636110de6192c7536d43f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_881317_github_sn_employee" sys_domain="global" view="Default view">14d9906d47636110de6192c7536d4311</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-20 05:28:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-20 05:28:49</sys_created_on>
+            <sys_id>98d9d4ed47636110de6192c7536d43f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_881317_github_sn_employee" sys_domain="global" view="Default view">14d9906d47636110de6192c7536d4311</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-20 05:28:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-20 05:28:49</sys_created_on>
+            <sys_id>1cd9d4ed47636110de6192c7536d43f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_881317_github_sn_employee" sys_domain="global" view="Default view">14d9906d47636110de6192c7536d4311</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-20 05:28:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-20 05:28:49</sys_created_on>
+            <sys_id>9cd9d4ed47636110de6192c7536d43f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_881317_github_sn_employee" sys_domain="global" view="Default view">14d9906d47636110de6192c7536d4311</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-20 05:28:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_881317_github_sn_employee</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-20 05:28:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14d9906d47636110de6192c7536d4311</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_881317_github_sn_employee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Github_Snow" source="x_881317_github_sn">8f3c08650723211027f6fa7f7c1ed0bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Github_Snow">8f3c08650723211027f6fa7f7c1ed0bf</sys_scope>
+            <sys_update_name>sys_ui_section_14d9906d47636110de6192c7536d4311</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-20 05:28:49</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
