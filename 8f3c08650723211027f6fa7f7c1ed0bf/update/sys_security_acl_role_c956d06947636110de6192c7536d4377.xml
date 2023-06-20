@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 05:13:35</sys_created_on>
+        <sys_id>c956d06947636110de6192c7536d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_881317_github_sn_employee.x_881317_github_sn.employee_user</sys_name>
+        <sys_package display_value="Github_Snow" source="x_881317_github_sn">8f3c08650723211027f6fa7f7c1ed0bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github_Snow">8f3c08650723211027f6fa7f7c1ed0bf</sys_scope>
+        <sys_security_acl display_value="x_881317_github_sn_employee">0156d06947636110de6192c7536d435c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c956d06947636110de6192c7536d4377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 05:13:35</sys_updated_on>
+        <sys_user_role display_value="x_881317_github_sn.employee_user" name="x_881317_github_sn.employee_user">b856906947636110de6192c7536d43c7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
